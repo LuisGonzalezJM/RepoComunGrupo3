@@ -1,8 +1,8 @@
-public class Clase_Alvaro {
-    public class Nose{
+public class Clase_Oscar {
+    public class Nose tampoco{
         /*
          *
-         * @author Alvaro
+         * @author Oscar Moreno
          *
          */
     }
